@@ -5,7 +5,7 @@
 ///whatever you named your database
 define('DATABASE_NAME', 'gdi_php_mvc');
 ///the user with permissions to your database. By default this is 'root'
-define('DATABASE_USER', 'root');
+define('DATABASE_USER', '');
 ///the password of the user.
 ///For MAMP users, this is 'root' by default.
 ///For XAMPP and WAMP users, this is '' by default
